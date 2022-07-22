@@ -1,3 +1,8 @@
 
 # environment 
 .env
+
+
+
+# node modeules
+node_modules
